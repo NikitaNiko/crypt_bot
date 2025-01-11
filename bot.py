@@ -4,7 +4,7 @@ from senders import sending
 from user_mes import user_messages, user_commands, coin_states
 
 
-bot1 = Bot("5647971616:AAEUmfKipJ7t2rk-tbIHcYHGfZWNTyg5WaM")
+bot1 = Bot("YOUR_TOKEN")
 
 async def main():
     dp = Dispatcher()
